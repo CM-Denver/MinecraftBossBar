@@ -1,0 +1,7 @@
+version: 1.0
+name: BossBar
+main: com.william.plugin.Main
+
+author: me
+description: Creates a custom boss bar that says "Welcome to the server!" and will be visiable to players when they join!
+
